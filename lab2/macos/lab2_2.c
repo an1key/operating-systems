@@ -25,7 +25,7 @@ int main(){
     read(fHandle3, buffer, 7);
     write(1, buffer, 7);
     write(1, "\n", 2);
-    
+
     close(fHandle1);
     close(fHandle2);
     close(fHandle3);

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/an1key/docy/study/Операционные системы/operating-systems/lab1/macos
+# Install script for directory: /Users/an1key/docy/study/Операционные_системы/operating-systems/lab1/macos
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/an1key/docy/study/Операционные системы/operating-systems/lab1/macos/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/an1key/docy/study/Операционные_системы/operating-systems/lab1/macos/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
